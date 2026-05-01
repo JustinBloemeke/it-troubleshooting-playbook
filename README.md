@@ -14,6 +14,8 @@ This project demonstrates my ability to:
 - Document solutions clearly
 - Communicate technical steps in a user-friendly way
 
+I also made this to help my fellow soon to be graduates and entry level workers in the IT field
+
 ## Tools & Concepts Used
 - Windows troubleshooting tools (Task Manager, Device Manager, CMD)
 - Basic networking commands (ipconfig, ping)
