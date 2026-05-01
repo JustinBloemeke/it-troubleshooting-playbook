@@ -24,6 +24,8 @@ This project was created to demonstrate and strengthen real-world IT support ski
 - Password reset and account access issues
 - New employee workstation setup
 - Hardware support and device preparation
+- Basic laptop troubleshooting
+- Example of a basic help desk ticket
 
 ## Guides (More to be added)
 
@@ -39,6 +41,10 @@ This project was created to demonstrate and strengthen real-world IT support ski
 
 ### Hardware / Onboarding
 - [New Employee Workstation Setup](Hardware/new-employee-setup.md)
+- [Laptop Won't Turn On](Hardware/laptop-wont-turn-on.md)
+
+### Documentation
+- [Ticket Documentation Example](Documentation/ticket-documentation-example.md)
 
 ## Skills Demonstrated
 
@@ -52,6 +58,7 @@ This project was created to demonstrate and strengthen real-world IT support ski
 - IT onboarding workflow
 - Asset tracking awareness
 - Customer-focused communication
+- Ticketing and Documentation
 
 ## Intended Audience
 
