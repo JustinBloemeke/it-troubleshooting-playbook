@@ -2,19 +2,22 @@
 
 ## Overview
 
-This repository is a practical IT support knowledge base designed for common help desk, desktop support, and entry-level IT scenarios. It includes step-by-step troubleshooting guides for issues such as slow computers, printer problems, network connectivity, password resets, and new employee workstation setup.
-
-The goal of this project is to create clear, organized, and easy-to-follow documentation that could be useful for new IT technicians, students, and soon-to-be graduates entering their first technical support roles.
-
 ## Purpose
 
-This project was created to demonstrate and strengthen real-world IT support skills, including:
+This playbook is a growing collection of real-world IT troubleshooting guides and case studies. Each guide is written to document the issue, symptoms, troubleshooting process, root cause, and resolution.
 
-- Troubleshooting common hardware, software, and network issues
-- Writing clear technical documentation
-- Explaining technical steps in a user-friendly way
-- Organizing support procedures for repeatable use
-- Building documentation that could support help desk and desktop support workflows
+The goal of this project is to practice clear technical documentation while building a reference for common help desk, desktop support, and NOC-style troubleshooting scenarios.
+
+## Skills Demonstrated
+
+- Windows troubleshooting
+- Hardware and USB device isolation
+- Event Viewer log analysis
+- Windows service troubleshooting
+- Device Manager usage
+- Root cause analysis
+- Technical documentation
+- Help desk-style problem solving
 
 ## Topics Covered
 
