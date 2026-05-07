@@ -32,6 +32,7 @@ This project was created to demonstrate and strengthen real-world IT support ski
 ### Windows
 - [Troubleshooting a Slow Computer](Windows/slow-computer.md)
 - [Password Reset and Account Access Issues](Windows/password-reset.md)
+- [Windows Audio Devices Disappear After Connecting USB Webcam](Windows/audio-devices-disappear-usb-webcam.md)
 
 ### Networking
 - [Troubleshooting No Internet Connection](Networking/no-internet.md)
